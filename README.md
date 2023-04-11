@@ -6,8 +6,8 @@ The Platform API is used to manage the platform. The control of the Activity Log
 
 * [Documentation](https://documentation.api.qilin.cloud/platform/)
 * [Schema](https://documentation.api.qilin.cloud/openapi/platform/tag/schema/)
-* [OpenAPI Specification](https://github.com/QilinCloud/platform/blob/main/openapi-platform.yaml)
-* [Postman Collection](https://github.com/QilinCloud/platform/blob/main/postman_collection-platform.json)
+* [OpenAPI Specification](https://github.com/QilinCloud/API-Platform/blob/main/openapi-platform.yaml)
+* [Postman Collection](https://github.com/QilinCloud/API-Platform/blob/main/postman_collection-platform.json)
 * [SDKs](https://github.com/search?q=user%3AQilinCloud+SDK)
 
 
