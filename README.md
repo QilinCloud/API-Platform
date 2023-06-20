@@ -19,11 +19,11 @@ If you still notice something bad, we are happy to have a strong community to so
 
 ## Useful links to get started
 
-* [Documentation](https://documentation.api.qilin.cloud/platform/)
-* [Schema](https://documentation.api.qilin.cloud/openapi/platform/tag/schema/)
-* [OpenAPI Specification](https://github.com/QilinCloud/API-Platform/blob/main/openapi-platform.yaml)
-* [Postman Collection](https://github.com/QilinCloud/API-Platform/blob/main/postman_collection-platform.json)
+* [Endpoint documentation](https://documentation.api.qilin.cloud/platform/)
+* [OpenAPI specification](https://github.com/QilinCloud/API-Platform/blob/main/openapi-platform.yaml)
+* [Postman collection](https://github.com/QilinCloud/API-Platform/blob/main/postman_collection-platform.json)
 * [SDKs](https://github.com/search?q=user%3AQilinCloud+SDK)
+* [Wiki](https://github.com/QilinCloud/API-Platform/wiki)
 
 
 ## How to provide feedback
