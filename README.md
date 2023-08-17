@@ -39,7 +39,7 @@ Read more about our code quality approach in our wiki: [Code Quality](https://gi
 
 ## How to provide feedback
 
-Generally, bugs and feature requests for the API or docs should be [Github issue](https://github.com/QilinCloud/API-Platform/issues/new). Everything else should be discussed here [API-Platform Discussion](https://github.com/QilinCloud/API-Platform/discussions).
+Generally, bugs and feature requests for the API or docs should be [Github issue](https://github.com/QilinCloud/API-Platform/issues/new). Everything else should be discussed here: [Discussions](https://github.com/orgs/QilinCloud/discussions).
 
 :warning:  **For vulnerabilities please check out the [security](https://github.com/QilinCloud/API-Platform/security) area.**
 
